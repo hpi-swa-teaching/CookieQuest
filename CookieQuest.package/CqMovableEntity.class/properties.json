@@ -1,0 +1,28 @@
+{
+	"category" : "CookieQuest-Entities",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "erik 2/19/2016 14:17",
+	"instvars" : [
+		"nextState",
+		"activeState",
+		"picture",
+		"currentAcceleration",
+		"staticAccelerations",
+		"velocity",
+		"resistanceCoefficient",
+		"temporaryResistanceCoefficient",
+		"temporaryAcceleration",
+		"temporaryVelocity",
+		"gravityInfluence",
+		"precisePosition",
+		"availableJumps",
+		"movingAccelerationFactor",
+		"isGroundResistanceAdded" ],
+	"name" : "CqMovableEntity",
+	"pools" : [
+		 ],
+	"super" : "CqEntity",
+	"type" : "normal" }

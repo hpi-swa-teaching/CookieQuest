@@ -1,0 +1,15 @@
+{
+	"category" : "CookieQuest-Level",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "AR 2/15/2016 16:07",
+	"instvars" : [
+		"metadata",
+		"occupiedFields" ],
+	"name" : "CqLevelTileLayer",
+	"pools" : [
+		 ],
+	"super" : "Morph",
+	"type" : "normal" }

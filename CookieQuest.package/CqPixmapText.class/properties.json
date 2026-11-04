@@ -1,0 +1,15 @@
+{
+	"category" : "CookieQuest-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "AR 2/15/2016 15:33",
+	"instvars" : [
+		"font",
+		"text" ],
+	"name" : "CqPixmapText",
+	"pools" : [
+		 ],
+	"super" : "Morph",
+	"type" : "normal" }

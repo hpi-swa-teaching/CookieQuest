@@ -1,0 +1,4 @@
+accessing
+filename
+
+	^ 'platform.gif'

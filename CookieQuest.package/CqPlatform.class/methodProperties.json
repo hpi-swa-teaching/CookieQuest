@@ -1,0 +1,13 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"collisionProperty" : "SeSc 2/4/2016 00:00",
+		"defaultMovingAccelarationFactor" : "ek 1/27/2016 22:41",
+		"defaultState" : "ek 1/28/2016 15:43",
+		"filename" : "SeSc 2/16/2016 16:38",
+		"initialize" : "aloeser 2/14/2016 12:13",
+		"registerCollisionStrategiesForEnemies" : "ek 2/15/2016 23:12",
+		"registerCollisionStrategiesForGround" : "ek 2/16/2016 15:13",
+		"registerCollisionStrategiesForLevelBounds" : "ek 2/15/2016 23:30",
+		"registerCollisionStrategiesForObjects" : "erik 2/18/2016 21:50" } }

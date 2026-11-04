@@ -1,0 +1,9 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"collisionProperty" : "SeSc 2/3/2016 23:59",
+		"imageDirectory" : "SeSc 2/16/2016 16:36",
+		"jumpingVelocity" : "ek 2/18/2016 11:53",
+		"registerCollisionStrategiesForCookieMonster" : "ek 2/15/2016 23:34",
+		"registerCollisionStrategiesForGround" : "ek 2/15/2016 23:34" } }

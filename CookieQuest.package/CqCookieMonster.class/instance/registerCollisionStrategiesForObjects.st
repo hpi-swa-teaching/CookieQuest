@@ -1,0 +1,7 @@
+registration
+registerCollisionStrategiesForObjects
+
+	self
+		registerCollisionStrategiesForJumps;
+		registerCollisionStrategiesForCookies;
+		registerCollisionStrategiesForSpecialObjects

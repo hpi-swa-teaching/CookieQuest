@@ -1,0 +1,4 @@
+accessing
+surfaceResistance
+
+	^ surfaceResistance

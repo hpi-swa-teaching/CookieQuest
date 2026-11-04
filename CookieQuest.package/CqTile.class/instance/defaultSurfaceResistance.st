@@ -1,0 +1,4 @@
+defaults
+defaultSurfaceResistance
+
+	^ 20

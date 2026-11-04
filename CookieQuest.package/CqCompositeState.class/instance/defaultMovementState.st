@@ -1,0 +1,4 @@
+defaults
+defaultMovementState
+
+	^ CqWalkingState new

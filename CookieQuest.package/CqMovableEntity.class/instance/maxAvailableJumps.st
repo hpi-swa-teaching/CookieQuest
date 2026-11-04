@@ -1,0 +1,4 @@
+defaults
+maxAvailableJumps
+
+	 ^ 2

@@ -1,0 +1,4 @@
+accessing
+gameOverBlock
+
+	^ gameOverBlock

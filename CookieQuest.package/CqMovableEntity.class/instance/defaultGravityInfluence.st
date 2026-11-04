@@ -1,0 +1,4 @@
+defaults
+defaultGravityInfluence
+
+	^ 1

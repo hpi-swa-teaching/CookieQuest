@@ -1,0 +1,4 @@
+defaults
+defaultDirectionState
+
+	^ CqRightState new

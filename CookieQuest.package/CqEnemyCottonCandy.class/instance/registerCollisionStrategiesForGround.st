@@ -1,0 +1,6 @@
+registration
+registerCollisionStrategiesForGround
+
+	super registerCollisionStrategiesForGround.
+	self registerCollisionStrategy: CqJumpStrategy new
+		for: CqCollision tileProperty

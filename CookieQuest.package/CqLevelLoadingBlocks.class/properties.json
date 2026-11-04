@@ -1,0 +1,20 @@
+{
+	"category" : "CookieQuest-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "ek 11/4/2026 15:11",
+	"instvars" : [
+		"loadLevelBlock",
+		"loadFirstLevelBlock",
+		"reloadLevelBlock",
+		"gameOverBlock",
+		"dieBlock",
+		"cookieMonsterLifeQuantityGetterBlock",
+		"exitBlock" ],
+	"name" : "CqLevelLoadingBlocks",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

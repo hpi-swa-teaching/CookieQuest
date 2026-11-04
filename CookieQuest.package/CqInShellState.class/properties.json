@@ -1,0 +1,14 @@
+{
+	"category" : "CookieQuest-States",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "ek 1/21/2016 09:07",
+	"instvars" : [
+		 ],
+	"name" : "CqInShellState",
+	"pools" : [
+		 ],
+	"super" : "CqMovementState",
+	"type" : "normal" }

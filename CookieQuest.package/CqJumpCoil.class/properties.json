@@ -1,0 +1,14 @@
+{
+	"category" : "CookieQuest-Entities",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "ek 2/15/2016 22:22",
+	"instvars" : [
+		 ],
+	"name" : "CqJumpCoil",
+	"pools" : [
+		 ],
+	"super" : "CqEntity",
+	"type" : "normal" }

@@ -1,0 +1,24 @@
+{
+	"class" : {
+		"newFrom:" : "SeSc 2/18/2016 21:44" },
+	"instance" : {
+		"cookieMonsterDie" : "SeSc 1/27/2016 16:09",
+		"cookieMonsterDieBlock" : "SeSc 1/27/2016 16:09",
+		"cookieMonsterDieBlock:" : "SeSc 1/27/2016 16:09",
+		"cookieMonsterLifeQuantity" : "SeSc 1/26/2016 16:20",
+		"cookieMonsterLifeQuantityGetterBlock:" : "SeSc 1/26/2016 16:17",
+		"exit" : "SeSc 2/18/2016 21:33",
+		"exitBlock" : "SeSc 2/18/2016 21:31",
+		"exitBlock:" : "SeSc 2/18/2016 21:33",
+		"gameOver" : "SeSc 1/26/2016 16:35",
+		"gameOverBlock" : "SeSc 1/26/2016 16:33",
+		"gameOverBlock:" : "SeSc 1/26/2016 16:34",
+		"loadFirstLevel" : "SeSc 2/3/2016 11:48",
+		"loadFirstLevelBlock" : "SeSc 2/3/2016 11:48",
+		"loadFirstLevelBlock:" : "SeSc 2/3/2016 11:49",
+		"loadLevel:" : "SeSc 1/8/2016 19:56",
+		"loadLevelBlock" : "SeSc 1/8/2016 19:56",
+		"loadLevelBlock:" : "SeSc 2/3/2016 11:49",
+		"reloadLevel" : "SeSc 1/8/2016 19:56",
+		"reloadLevelBlock" : "SeSc 1/8/2016 19:56",
+		"reloadLevelBlock:" : "SeSc 1/8/2016 19:56" } }

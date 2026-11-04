@@ -1,0 +1,4 @@
+direction token
+directionLeft
+
+	^ #left

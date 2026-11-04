@@ -1,0 +1,15 @@
+{
+	"category" : "CookieQuest-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "SeSc 2/17/2016 21:01",
+	"instvars" : [
+		"sprites",
+		"tiles" ],
+	"name" : "CqAssetLoader",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

@@ -1,0 +1,15 @@
+{
+	"category" : "CookieQuest-Entities",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "AR 2/16/2016 12:07",
+	"instvars" : [
+		"gravity",
+		"maxGravity" ],
+	"name" : "CqPointGravitySource",
+	"pools" : [
+		 ],
+	"super" : "CqEntity",
+	"type" : "normal" }

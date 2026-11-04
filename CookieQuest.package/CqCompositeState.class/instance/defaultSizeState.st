@@ -1,0 +1,4 @@
+defaults
+defaultSizeState
+
+	^ CqNormalSizeState new

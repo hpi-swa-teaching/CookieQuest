@@ -1,0 +1,15 @@
+{
+	"category" : "CookieQuest-Level",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "AR 2/15/2016 16:13",
+	"instvars" : [
+		"filename",
+		"tileType" ],
+	"name" : "CqTileMetadata",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

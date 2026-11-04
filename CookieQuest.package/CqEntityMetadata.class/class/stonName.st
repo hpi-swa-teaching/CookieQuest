@@ -1,0 +1,4 @@
+ston-core
+stonName
+
+	^ #Entity

@@ -1,0 +1,4 @@
+accessing
+imageDirectory
+
+	self subclassResponsibility.

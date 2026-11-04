@@ -1,0 +1,15 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"collide:" : "AR 2/17/2016 22:09",
+		"horizontalPositionOf:to:" : "erik 1/23/2016 21:31",
+		"resolveDownCollision:" : "AR 2/17/2016 22:12",
+		"resolveHorizontalCollision:" : "aloeser 2/4/2016 17:48",
+		"resolveLeftCollision:" : "ek 1/27/2016 16:54",
+		"resolveRightCollision:" : "ek 1/27/2016 16:55",
+		"resolveUpCollision:" : "AR 2/17/2016 22:12",
+		"resolveVerticalCollision:" : "AR 2/17/2016 22:12",
+		"selectHorizontalVelocityOf:with:" : "erik 2/2/2016 13:29",
+		"selectVerticalVelocityOf:with:" : "erik 2/2/2016 13:29",
+		"verticalPositionOf:to:" : "erik 1/23/2016 21:22" } }

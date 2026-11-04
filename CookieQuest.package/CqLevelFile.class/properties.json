@@ -1,0 +1,18 @@
+{
+	"category" : "CookieQuest-Level",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "SeSc 2/18/2016 01:12",
+	"instvars" : [
+		"metadata",
+		"tiles",
+		"foregroundLayer",
+		"backgroundLayers",
+		"entities" ],
+	"name" : "CqLevelFile",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

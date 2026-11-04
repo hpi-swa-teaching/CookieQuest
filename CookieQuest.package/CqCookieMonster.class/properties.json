@@ -1,0 +1,17 @@
+{
+	"category" : "CookieQuest-Entities",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "AR 2/16/2016 12:03",
+	"instvars" : [
+		"cookieQuantity",
+		"lifeQuantity",
+		"levelLoadingBlocks",
+		"alive" ],
+	"name" : "CqCookieMonster",
+	"pools" : [
+		 ],
+	"super" : "CqMovableEntity",
+	"type" : "normal" }

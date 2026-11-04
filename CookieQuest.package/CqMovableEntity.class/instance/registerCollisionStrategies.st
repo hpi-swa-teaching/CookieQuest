@@ -1,0 +1,8 @@
+initialization
+registerCollisionStrategies
+
+	super registerCollisionStrategies.
+	self
+		registerCollisionStrategiesDefault;
+		registerCollisionStrategiesForEnemies;
+		registerCollisionStrategiesForObjects 

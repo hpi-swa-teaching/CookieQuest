@@ -1,0 +1,4 @@
+size
+sizeAccelarationFactor
+
+	self subclassResponsibility

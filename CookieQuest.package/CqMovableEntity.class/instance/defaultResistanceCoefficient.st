@@ -1,0 +1,4 @@
+defaults
+defaultResistanceCoefficient
+
+	^ 5

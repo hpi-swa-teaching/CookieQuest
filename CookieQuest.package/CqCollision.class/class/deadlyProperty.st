@@ -1,0 +1,4 @@
+collision token
+deadlyProperty
+	
+	^ #deadly

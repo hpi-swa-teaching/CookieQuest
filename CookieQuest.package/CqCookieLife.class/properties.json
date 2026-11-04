@@ -1,0 +1,14 @@
+{
+	"category" : "CookieQuest-Entities",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "AR 2/15/2016 17:01",
+	"instvars" : [
+		 ],
+	"name" : "CqCookieLife",
+	"pools" : [
+		 ],
+	"super" : "CqCookie",
+	"type" : "normal" }

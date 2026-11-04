@@ -1,0 +1,14 @@
+{
+	"category" : "CookieQuest-Entities",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "ek 2/15/2016 16:32",
+	"instvars" : [
+		 ],
+	"name" : "CqEnemyDentist",
+	"pools" : [
+		 ],
+	"super" : "CqEnemy",
+	"type" : "normal" }

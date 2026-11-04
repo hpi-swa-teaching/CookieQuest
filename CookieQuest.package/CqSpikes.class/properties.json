@@ -1,0 +1,14 @@
+{
+	"category" : "CookieQuest-Entities",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "CqSpikes",
+	"pools" : [
+		 ],
+	"super" : "CqEntity",
+	"type" : "normal" }

@@ -1,0 +1,10 @@
+{
+	"class" : {
+		"newFrom:with:" : "SeSc 2/18/2016 14:50" },
+	"instance" : {
+		"collisionProperty" : "SeSc 2/4/2016 00:00",
+		"defaultSurfaceResistance" : "ek 1/7/2016 09:34",
+		"initialize" : "erik 12/18/2015 14:09",
+		"surfaceResistance" : "aloeser 1/5/2016 20:16",
+		"surfaceResistance:" : "aloeser 1/5/2016 20:16",
+		"turnIntoIceTile" : "ek 1/5/2016 08:02" } }

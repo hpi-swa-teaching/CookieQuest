@@ -1,0 +1,10 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"bounceDirectionFor:" : "AR 2/16/2016 15:08",
+		"bounceVelocityFactor" : "ek 1/25/2016 16:44",
+		"collide:" : "ek 1/25/2016 16:59",
+		"horizontalVelocityToZero:" : "erik 2/2/2016 13:33",
+		"letBounce:direction:" : "AR 2/17/2016 22:15",
+		"verticalVelocityToZero:" : "erik 2/2/2016 13:33" } }

@@ -1,0 +1,17 @@
+{
+	"category" : "CookieQuest-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "AR 2/15/2016 14:59",
+	"instvars" : [
+		"cookiePicture",
+		"cookieNumber",
+		"lifePicture",
+		"lifeNumber" ],
+	"name" : "CqHeadUpDisplay",
+	"pools" : [
+		 ],
+	"super" : "Morph",
+	"type" : "normal" }

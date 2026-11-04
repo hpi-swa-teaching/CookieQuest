@@ -1,0 +1,12 @@
+{
+	"class" : {
+		"createEntityFor:with:" : "AR 2/17/2016 17:07",
+		"entityTypeClassMapping" : "aloeser 2/17/2016 20:31",
+		"newFrom:withMetadata:withLevel:withCookieMonster:" : "AR 2/17/2016 17:06" },
+	"instance" : {
+		"cookieMonster" : "aloeser 1/5/2016 19:44",
+		"cookieMonster:" : "aloeser 1/5/2016 19:44",
+		"createEntityFor:with:" : "AR 2/17/2016 17:03",
+		"metadata" : "aloeser 1/5/2016 19:44",
+		"metadata:" : "aloeser 1/5/2016 19:44",
+		"resetCookieMonster" : "aloeser 2/17/2016 19:49" } }

@@ -1,0 +1,17 @@
+{
+	"category" : "CookieQuest-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "AR 2/15/2016 14:41",
+	"instvars" : [
+		"collider",
+		"collidee",
+		"direction",
+		"invertedDirections" ],
+	"name" : "CqCollision",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

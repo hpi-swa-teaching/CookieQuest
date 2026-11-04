@@ -1,0 +1,4 @@
+registration
+registerCollisionStrategiesForObjects
+
+	self subclassResponsibility

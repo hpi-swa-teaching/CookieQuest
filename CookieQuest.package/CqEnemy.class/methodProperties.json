@@ -1,0 +1,13 @@
+{
+	"class" : {
+		"newFrom:withMetadata:" : "aloeser 2/18/2016 12:44" },
+	"instance" : {
+		"collisionProperty" : "SeSc 2/3/2016 23:59",
+		"defaultState" : "aloeser 1/20/2016 22:56",
+		"imageDirectory" : "AR 2/17/2016 13:54",
+		"initialize" : "aloeser 2/14/2016 12:08",
+		"registerCollisionStrategiesForCookieMonster" : "erik 2/18/2016 21:46",
+		"registerCollisionStrategiesForEnemies" : "erik 2/18/2016 21:46",
+		"registerCollisionStrategiesForGround" : "erik 2/18/2016 21:44",
+		"registerCollisionStrategiesForLevelBounds" : "erik 2/18/2016 21:45",
+		"registerCollisionStrategiesForObjects" : "erik 2/18/2016 22:00" } }

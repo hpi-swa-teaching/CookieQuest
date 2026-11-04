@@ -1,0 +1,4 @@
+defaults
+defaultJumpinessFactor
+
+	^ 1

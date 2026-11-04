@@ -1,0 +1,17 @@
+{
+	"category" : "CookieQuest-Level",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "AR 2/15/2016 16:09",
+	"instvars" : [
+		"content",
+		"timer",
+		"levelLoadingBlocks",
+		"assetLoader" ],
+	"name" : "CqScreen",
+	"pools" : [
+		 ],
+	"super" : "Morph",
+	"type" : "normal" }

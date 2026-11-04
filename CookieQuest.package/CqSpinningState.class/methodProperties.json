@@ -1,0 +1,8 @@
+{
+	"class" : {
+		"stateToken" : "ek 1/21/2016 08:54" },
+	"instance" : {
+		"enterState" : "aloeser 2/17/2016 14:26",
+		"movementAccelarationFactor" : "ek 2/3/2016 11:44",
+		"updateCollisionStrategiesForCookieMonster" : "aloeser 2/17/2016 14:26",
+		"updateCollisionStrategiesForTile" : "erik 2/18/2016 21:56" } }

@@ -1,0 +1,20 @@
+{
+	"category" : "CookieQuest-Level",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "AR 2/15/2016 16:03",
+	"instvars" : [
+		"inputHandler",
+		"metadata",
+		"foregroundLayer",
+		"backgroundLayers",
+		"entityLayer",
+		"assetLoader",
+		"backgroundSound" ],
+	"name" : "CqLevel",
+	"pools" : [
+		 ],
+	"super" : "Morph",
+	"type" : "normal" }

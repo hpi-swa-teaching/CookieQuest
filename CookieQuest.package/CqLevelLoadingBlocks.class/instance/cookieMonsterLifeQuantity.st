@@ -1,0 +1,4 @@
+accessing
+cookieMonsterLifeQuantity
+
+	^ cookieMonsterLifeQuantityGetterBlock value

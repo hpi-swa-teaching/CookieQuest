@@ -1,0 +1,17 @@
+{
+	"category" : "CookieQuest-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "AR 2/15/2016 15:15",
+	"instvars" : [
+		"pressedKeys",
+		"keyStrokeActions",
+		"keyUpActions",
+		"keyDownActions" ],
+	"name" : "CqInputHandler",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

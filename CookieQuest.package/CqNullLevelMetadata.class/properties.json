@@ -1,0 +1,14 @@
+{
+	"category" : "CookieQuest-Level",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "AR 2/15/2016 16:44",
+	"instvars" : [
+		 ],
+	"name" : "CqNullLevelMetadata",
+	"pools" : [
+		 ],
+	"super" : "CqLevelMetadata",
+	"type" : "normal" }

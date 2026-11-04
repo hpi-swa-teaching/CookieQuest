@@ -1,0 +1,22 @@
+{
+	"class" : {
+		"fromAboveCollisionCondition" : "aloeser 2/4/2016 17:42",
+		"fromCollideeFloatingCondition" : "erik 2/18/2016 20:51",
+		"fromCollideeInShellCondition" : "erik 2/18/2016 20:51",
+		"fromCollideeJumpingOnItCondition" : "erik 1/23/2016 19:22",
+		"fromCollideeMaxiCondition" : "erik 2/18/2016 20:52",
+		"fromCollideeNormalSizeCondition" : "erik 2/18/2016 20:52",
+		"fromCollideeSpinningCondition" : "erik 2/18/2016 20:52",
+		"fromColliderMiniCondition" : "erik 2/18/2016 20:52",
+		"fromCollisionWeakAboveCondition" : "ek 11/4/2026 15:16",
+		"fromDirectionNotEqualCondition" : "erik 2/18/2016 20:52",
+		"fromFacingCollideeCondition" : "erik 1/23/2016 21:36",
+		"fromFacingCollideeLeftCondition" : "ek 11/4/2026 15:16",
+		"fromFacingCollideeRightCondition" : "ek 11/4/2026 15:16",
+		"fromHorizontalCollisionCondition" : "erik 2/18/2016 21:39",
+		"fromJumpingOnItCondition" : "aloeser 2/4/2016 17:42" },
+	"instance" : {
+		"and:" : "ek 11/4/2026 15:16",
+		"conditionBlock" : "erik 1/13/2016 17:38",
+		"conditionBlock:" : "erik 1/13/2016 17:38",
+		"negate" : "AR 2/17/2016 21:59" } }

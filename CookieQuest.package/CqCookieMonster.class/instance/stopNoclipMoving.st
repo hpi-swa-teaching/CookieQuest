@@ -1,0 +1,4 @@
+logic
+stopNoclipMoving
+
+	self stop

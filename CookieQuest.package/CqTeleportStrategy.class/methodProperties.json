@@ -1,0 +1,8 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"collide:" : "aloeser 2/4/2016 17:50",
+		"positionOf:toDestination:withHorizontalAdjustment:" : "ek 1/26/2016 13:20",
+		"resolveLeftCollision:" : "SeSc 1/26/2016 13:27",
+		"resolveRightCollision:" : "SeSc 1/26/2016 13:28" } }

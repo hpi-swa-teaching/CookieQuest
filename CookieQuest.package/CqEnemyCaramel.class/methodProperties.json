@@ -1,0 +1,12 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"collisionProperty" : "SeSc 2/3/2016 23:59",
+		"defaultJumpiness" : "ek 1/28/2016 22:25",
+		"defaultJumpinessFactor" : "ek 1/28/2016 22:25",
+		"defaultMovingAccelarationFactor" : "ek 1/28/2016 22:34",
+		"goInShell" : "erik 2/18/2016 20:58",
+		"imageDirectory" : "SeSc 2/16/2016 16:35",
+		"registerCollisionStrategiesForCookieMonster" : "ek 2/15/2016 23:33",
+		"spin" : "erik 2/18/2016 20:59" } }

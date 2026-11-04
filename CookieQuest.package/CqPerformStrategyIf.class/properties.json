@@ -1,0 +1,15 @@
+{
+	"category" : "CookieQuest-CollisionStrategies",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "aloeser 2/15/2016 17:04",
+	"instvars" : [
+		"conditionBlock",
+		"strategy" ],
+	"name" : "CqPerformStrategyIf",
+	"pools" : [
+		 ],
+	"super" : "CqStrategy",
+	"type" : "normal" }

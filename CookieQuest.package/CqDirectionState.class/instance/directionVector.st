@@ -1,0 +1,4 @@
+direction
+directionVector
+
+	self subclassResponsibility 

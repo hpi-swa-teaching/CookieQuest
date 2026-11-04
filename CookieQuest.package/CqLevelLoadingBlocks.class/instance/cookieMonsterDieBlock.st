@@ -1,0 +1,4 @@
+accessing
+cookieMonsterDieBlock
+
+	^ dieBlock

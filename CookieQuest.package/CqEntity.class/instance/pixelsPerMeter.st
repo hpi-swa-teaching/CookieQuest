@@ -1,0 +1,4 @@
+constants
+pixelsPerMeter
+
+	^ 100

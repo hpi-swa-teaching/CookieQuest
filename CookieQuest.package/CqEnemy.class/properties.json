@@ -1,0 +1,14 @@
+{
+	"category" : "CookieQuest-Entities",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "AR 2/15/2016 17:13",
+	"instvars" : [
+		"filename" ],
+	"name" : "CqEnemy",
+	"pools" : [
+		 ],
+	"super" : "CqMovableEntity",
+	"type" : "normal" }

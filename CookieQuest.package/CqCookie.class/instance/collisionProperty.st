@@ -1,0 +1,4 @@
+accessing
+collisionProperty
+
+	^ CqCollision givesCookieProperty

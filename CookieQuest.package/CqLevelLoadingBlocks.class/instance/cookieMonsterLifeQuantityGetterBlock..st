@@ -1,0 +1,4 @@
+accessing
+cookieMonsterLifeQuantityGetterBlock: aCookieMonsterLifeQuantityBlock
+
+	cookieMonsterLifeQuantityGetterBlock := aCookieMonsterLifeQuantityBlock

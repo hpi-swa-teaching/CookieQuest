@@ -1,0 +1,4 @@
+accessing
+cookieMonsterLifeQuantityText: aPixmapText
+
+	cookieMonsterLifeQuantityText := aPixmapText

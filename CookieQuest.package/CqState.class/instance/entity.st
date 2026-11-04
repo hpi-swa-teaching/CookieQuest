@@ -1,0 +1,4 @@
+accessing
+entity
+
+	self subclassResponsibility

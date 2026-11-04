@@ -1,0 +1,4 @@
+collision handling
+collisionStrategiesClass
+
+	^ IdentityDictionary

@@ -1,0 +1,4 @@
+sounds
+resumeBackgroundSound
+
+	self backgroundSound resumePlaying

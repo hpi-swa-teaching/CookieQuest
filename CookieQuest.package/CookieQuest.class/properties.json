@@ -1,0 +1,19 @@
+{
+	"category" : "CookieQuest-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "ek 11/4/2026 15:10",
+	"instvars" : [
+		"currentLevelName",
+		"content",
+		"viewport",
+		"display",
+		"cookieMonster",
+		"assetLoader" ],
+	"name" : "CookieQuest",
+	"pools" : [
+		 ],
+	"super" : "Morph",
+	"type" : "normal" }

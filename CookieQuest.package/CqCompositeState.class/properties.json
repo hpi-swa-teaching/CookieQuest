@@ -1,0 +1,17 @@
+{
+	"category" : "CookieQuest-States",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "ek 1/21/2016 09:00",
+	"instvars" : [
+		"movementState",
+		"directionState",
+		"sizeState",
+		"savedCollisionStrategies" ],
+	"name" : "CqCompositeState",
+	"pools" : [
+		 ],
+	"super" : "CqState",
+	"type" : "normal" }

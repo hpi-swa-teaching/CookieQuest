@@ -1,0 +1,12 @@
+{
+	"class" : {
+		"newFrom:withMetadata:withAssetLoader:" : "AR 2/18/2016 15:22" },
+	"instance" : {
+		"createOccupiedFields" : "ek 2/18/2016 11:30",
+		"loadTiles:with:" : "AR 2/18/2016 15:22",
+		"metadata" : "SeSc 12/1/2015 14:21",
+		"metadata:" : "SeSc 1/20/2016 19:39",
+		"occupiedAt:at:" : "ek 11/4/2026 15:21",
+		"occupiedAt:is:" : "SeSc 1/20/2016 19:39",
+		"occupiedFields" : "aloeser 1/5/2016 19:48",
+		"occupiedFields:" : "aloeser 1/5/2016 19:48" } }

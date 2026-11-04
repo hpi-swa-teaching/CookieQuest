@@ -1,0 +1,4 @@
+accessing
+filename
+
+	^ 'cmlifecookie.gif'

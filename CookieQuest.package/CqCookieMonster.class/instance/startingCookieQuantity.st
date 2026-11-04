@@ -1,0 +1,4 @@
+defaults
+startingCookieQuantity
+
+	 ^ 0

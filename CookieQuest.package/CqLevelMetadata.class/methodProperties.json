@@ -1,0 +1,23 @@
+{
+	"class" : {
+		"stonName" : "SeSc 2/5/2016 00:01" },
+	"instance" : {
+		"backgroundColor" : "SeSc 2/5/2016 00:30",
+		"backgroundColor:" : "SeSc 2/5/2016 00:31",
+		"cookieMonsterSpawn" : "aloeser 1/5/2016 19:45",
+		"cookieMonsterSpawn:" : "aloeser 1/5/2016 19:45",
+		"extent" : "aloeser 11/20/2015 11:23",
+		"gravity" : "SeSc 1/7/2016 20:18",
+		"gravity:" : "SeSc 1/7/2016 20:18",
+		"initialize" : "SeSc 1/5/2016 09:42",
+		"tileHeight" : "aloeser 1/5/2016 19:45",
+		"tileHeight:" : "aloeser 1/5/2016 19:45",
+		"tilePositionAt:" : "SeSc 1/20/2016 19:38",
+		"tileQuantityHorizontal" : "aloeser 1/5/2016 19:45",
+		"tileQuantityHorizontal:" : "aloeser 1/5/2016 19:45",
+		"tileQuantityVertical" : "aloeser 1/5/2016 19:46",
+		"tileQuantityVertical:" : "aloeser 1/5/2016 19:46",
+		"tileWidth" : "aloeser 1/5/2016 19:46",
+		"tileWidth:" : "aloeser 1/5/2016 19:46",
+		"tiles" : "aloeser 1/5/2016 19:46",
+		"tiles:" : "aloeser 1/5/2016 19:47" } }

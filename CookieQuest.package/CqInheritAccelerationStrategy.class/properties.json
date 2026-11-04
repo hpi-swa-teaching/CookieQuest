@@ -1,0 +1,14 @@
+{
+	"category" : "CookieQuest-CollisionStrategies",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "erik 2/18/2016 22:12",
+	"instvars" : [
+		 ],
+	"name" : "CqInheritAccelerationStrategy",
+	"pools" : [
+		 ],
+	"super" : "CqStrategy",
+	"type" : "normal" }

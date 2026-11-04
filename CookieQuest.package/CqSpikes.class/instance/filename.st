@@ -1,0 +1,4 @@
+accessing
+filename
+
+	^ 'spikes.gif'

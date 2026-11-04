@@ -1,0 +1,14 @@
+{
+	"category" : "CookieQuest-CollisionStrategies",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "SeSc 2/18/2016 20:46",
+	"instvars" : [
+		 ],
+	"name" : "CqInvertHorizontalVelocityStrategy",
+	"pools" : [
+		 ],
+	"super" : "CqStrategy",
+	"type" : "normal" }

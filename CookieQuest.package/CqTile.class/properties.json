@@ -1,0 +1,14 @@
+{
+	"category" : "CookieQuest-Entities",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "ek 12/16/2015 17:36",
+	"instvars" : [
+		"surfaceResistance" ],
+	"name" : "CqTile",
+	"pools" : [
+		 ],
+	"super" : "CqEntity",
+	"type" : "normal" }

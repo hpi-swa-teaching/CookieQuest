@@ -1,0 +1,14 @@
+{
+	"category" : "CookieQuest-Entities",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "AR 2/16/2016 12:05",
+	"instvars" : [
+		 ],
+	"name" : "CqPlatform",
+	"pools" : [
+		 ],
+	"super" : "CqMovableEntity",
+	"type" : "normal" }

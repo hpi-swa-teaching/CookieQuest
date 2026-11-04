@@ -1,0 +1,4 @@
+physics
+bounceVelocityFactor 
+
+	^ 300

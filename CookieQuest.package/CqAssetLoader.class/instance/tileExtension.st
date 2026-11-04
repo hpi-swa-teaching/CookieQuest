@@ -1,0 +1,4 @@
+resource loading
+tileExtension
+
+	^ '.png'

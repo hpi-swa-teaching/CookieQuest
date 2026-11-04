@@ -1,0 +1,6 @@
+registration
+registerCollisionStrategiesForLevelBounds
+
+	super registerCollisionStrategiesForLevelBounds.
+	self registerCollisionStrategy: CqTurnStrategy new
+		for: CqCollision levelProperty

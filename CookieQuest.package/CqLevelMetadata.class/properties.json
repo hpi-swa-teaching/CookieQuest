@@ -1,0 +1,21 @@
+{
+	"category" : "CookieQuest-Level",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "SeSc 1/21/2016 17:29",
+	"instvars" : [
+		"tileQuantityVertical",
+		"tileQuantityHorizontal",
+		"tileHeight",
+		"tileWidth",
+		"cookieMonsterSpawn",
+		"tiles",
+		"gravity",
+		"backgroundColor" ],
+	"name" : "CqLevelMetadata",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

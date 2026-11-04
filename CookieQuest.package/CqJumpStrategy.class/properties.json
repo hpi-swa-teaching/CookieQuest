@@ -1,0 +1,14 @@
+{
+	"category" : "CookieQuest-CollisionStrategies",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "aloeser 2/15/2016 17:01",
+	"instvars" : [
+		 ],
+	"name" : "CqJumpStrategy",
+	"pools" : [
+		 ],
+	"super" : "CqStrategy",
+	"type" : "normal" }
